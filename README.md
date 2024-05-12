@@ -29,8 +29,9 @@ with open(sys.argv[1],'r') as f1:
         words=i.split()
         count+=len(words)
 print("word count  in file is",count)
+```
 ### OUTPUT:
 ![alt text](image.png)
-```
+
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
