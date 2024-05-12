@@ -18,6 +18,7 @@ Sum the number of words in each line.
 ### Step 6: 
 Display the total words in the file.
 ## PROGRAM:
+```
 Developed by: HYCINTH D
 Register no: 212223240055
 
@@ -30,6 +31,6 @@ with open(sys.argv[1],'r') as f1:
 print("word count  in file is",count)
 ### OUTPUT:
 ![alt text](image.png)
-
+```
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
